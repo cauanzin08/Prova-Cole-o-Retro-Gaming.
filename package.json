@@ -17,10 +17,11 @@
     "url": "https://github.com/cauanzin08/Prova-Cole-o-Retro-Gaming./issues"
   },
   "homepage": "https://github.com/cauanzin08/Prova-Cole-o-Retro-Gaming.#readme",
-  "description": "",
   "dependencies": {
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
